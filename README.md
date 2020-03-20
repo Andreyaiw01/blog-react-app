@@ -3,7 +3,7 @@ You can add and edit posts. Under post you can write a comments.<br />
 
 ●	Latest Posts / -- List of all Posts, Post short description.
 ●	View Post /posts/:postId -- Post page
-Features:
+Features:<br />
 ●	View list of latest Posts
 ●	View specific Post
 ●	Create new comment under Post
